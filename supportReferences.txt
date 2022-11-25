@@ -1,0 +1,9 @@
+https://fraud-detection-handbook.github.io/fraud-detection-handbook/Chapter_3_GettingStarted/SimulatedDataset.html
+
+https://www.atoti.io/articles/credit-card-fraud-detection-part1
+
+https://www.atoti.io/articles/credit-card-fraud-detection-part2/
+
+https://github.com/namebrandon/Sparkov_Data_Generation
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
