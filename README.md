@@ -1,3 +1,11 @@
+# Credit Card Fraud Detection
+---
+
+## Contributors
+* Conrado Pelá - CP3017133
+* Tuanny Leite - CP3016285
+---
+
 # Context
 
 The advance of technology gives us all access to conveniences as never seen before. Today it is possible to order anything using cell phone applications. From a simple meal, shopping at the supermarket, or even buying electronic devices have become commonplace tasks - with just one click, without leaving home. 
